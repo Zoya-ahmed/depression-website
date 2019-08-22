@@ -1,0 +1,50 @@
+/*{
+  box-sizing:content-box;  
+}*/
+/*.container{
+    
+        max-width: 500px;
+        padding: 10px 20px;
+        background: #f4f7f8;
+        margin: 10px auto;
+        padding: 20px;
+        background: #f4f7f8;
+        border-radius: 8px;
+        font-family: Georgia, "Times New Roman", Times, serif;
+    
+}
+.sub-container{
+   
+    text-align: center;
+    
+    
+}*/
+body{
+    background-image:url(images/depressed-teenage-girl.jpg) ;
+    background-size: cover;
+}
+.form{
+        top:50%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%,-50%);
+        width: 400px;
+        padding: 10px 20px;
+        background: rgba(0, 0, 0, .8);
+        margin: 10px auto;
+        padding: 5px 20px 20px 20px;
+        color: teal;
+        border-radius: 19px;
+        font-family: cursive;
+}
+input{
+  width: 100%;
+  padding: 4px;
+  display: inline-block;
+  background: wheat;
+
+}
+
+.form label{
+    
+}
